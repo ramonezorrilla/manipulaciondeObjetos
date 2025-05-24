@@ -47,7 +47,7 @@ namespace manipulaciondeObjetos {
         //Clase Hija para ocultar miembro
 
         class EmpleadoConComision : Empleado { 
-        
+        //nuevo
             public decimal Comision { get; set; }
 
             //Ocultación de miembro usando NEW
